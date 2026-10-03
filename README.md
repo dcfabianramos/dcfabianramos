@@ -30,4 +30,4 @@ Grancolombiano). 40 cursos y 411 horas de formación continua.
 
 ### Contacto
 
-[LinkedIn](https://www.linkedin.com/in/dcfabianramos) · dumarfabiancastanedaramos@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dcfabianramos) · [Repositorio del portafolio](https://github.com/dcfabianramos/portafolio-datos) · dumarfabiancastanedaramos@gmail.com
